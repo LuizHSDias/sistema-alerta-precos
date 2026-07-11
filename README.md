@@ -6,7 +6,7 @@ Sistema web desenvolvido para gerenciamento de alertas de preços e registro aut
 
 ## 📖 Sobre o Projeto
 
-O **Sistema Alerta Preços ** foi desenvolvido como exercício avaliativo da disciplina **Desenvolvimento de Sistemas** do **Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**.
+O **Sistema Alerta Preços** foi desenvolvido como exercício avaliativo da disciplina **Desenvolvimento de Sistemas** do **Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**.
 
 A aplicação permite que usuários autenticados na plataforma OdinLine cadastrem alertas para produtos específicos. Quando o preço desejado é atingido, o sistema executa automaticamente uma das ações configuradas pelo usuário:
 
